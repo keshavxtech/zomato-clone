@@ -24,7 +24,7 @@ A responsive Zomato-inspired food delivery website built using HTML, CSS, and Ja
 
 ### Home Page
 
-(Add screenshot<img width="1885" height="915" alt="image" src="https://github.com/user-attachments/assets/738599de-8f62-441d-aa46-f2c60c8a7f23" />
+<img width="1885" height="915" alt="image" src="https://github.com/user-attachments/assets/738599de-8f62-441d-aa46-f2c60c8a7f23" />
  here)
 
 ## Project Structure
